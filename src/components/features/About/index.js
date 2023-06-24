@@ -5,43 +5,49 @@ import raj from "../../assests/Users/Raj_S.png";
 import Teamwork from "../../assests/image/Teamwork.jpg";
 import about_us_initial from "../../assests/gif/About+us_initial.gif";
 import goal from "../../assests/gif/goal.gif";
+import naveen from "../../assests/Users/Naveen.jpeg";
+import jayaraj from "../../assests/Users/Jayaraj.jpeg";
+import saran from "../../assests/Users/saran.jpeg";
+import logu from "../../assests/Users/logu.jpeg";
+import arivu from "../../assests/Users/arivu.jpeg";
+import kumar from "../../assests/Users/kumar.jpg";
 
 function About() {
   const [team, _] = useState([
     {
-      name: "Alpha S",
+      name: "Raj S",
       position: ["Web Development", "Mobile Development"],
       img: raj,
     },
     {
       name: "Kumar S",
       position: ["Machine Learning", "Deep Learning"],
-      img: raj,
+      img: kumar,
     },
     {
       name: "Naveen V",
       position: ["Machine Learning", "Deep Learning"],
-      img: raj,
+      img: naveen,
     },
     {
       name: "Saran K",
       position: ["Web Development", "Mobile Development"],
-      img: raj,
+      img: saran,
     },
     {
       name: "Arivu T",
       position: ["Web Development", "Mobile Development"],
-      img: raj,
+      img: arivu,
     },
     {
       name: "Logeshwaran T",
       position: ["Web Development", "Mobile Development"],
-      img: raj,
+      img: logu,
     },
     {
       name: "Jayaraj K",
       position: ["Internet of Things", "Networking"],
-      img: raj,
+      img: jayaraj,
     },
   ]);
 

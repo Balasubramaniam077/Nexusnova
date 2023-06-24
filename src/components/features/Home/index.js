@@ -1,4 +1,4 @@
-import coder_gif from "../../assests/gif/Coder_gif.gif";
+import coder_gif from "../../assests/gif/coder_gif.gif";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import styles from "./home.module.css";
