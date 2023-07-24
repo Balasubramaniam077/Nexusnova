@@ -15,7 +15,7 @@ import naveen from "../../assests/Users/Naveen.jpeg";
 import jayaraj from "../../assests/Users/Jayaraj.jpeg";
 import saran from "../../assests/Users/saran.jpeg";
 import logu from "../../assests/Users/logu.jpeg";
-import kumar from "../../assests/Users/kumar.jpg";
+import kumar from "../../assests/Users/Nk.jpg";
 
 const cards = [
   {
@@ -43,7 +43,7 @@ const cards = [
   {
     cover: plant_disease,
     title: "Plant Leaf Disease Classification using Deep Learning",
-    text: <Plant_Leaf_Disease_Classification/>,
+    text: <Plant_Leaf_Disease_Classification />,
     labels: ["React Js", "ML", "DL", "Flask"],
     name: "Saran K",
     date: "24/04/2022",
@@ -54,7 +54,7 @@ const cards = [
   {
     cover: lisence_plat,
     title: "Lisence Plate Detection using Computer Vision",
-    text: <Lisence_plate_Detection/>,
+    text: <Lisence_plate_Detection />,
     labels: ["React Native", "ML", "DL", "Computer Vision"],
     name: "Naveen ",
     date: "24/04/2022",
@@ -65,7 +65,7 @@ const cards = [
   {
     cover: self_driving,
     title: "Self Driving Car using Artificial Intelligence",
-    text: <Self_Driving_Car/>,
+    text: <Self_Driving_Car />,
     labels: ["ML", "DL", "NLP", "Computer Vision"],
     name: "Kumar",
     date: "24/04/2022",
@@ -76,7 +76,7 @@ const cards = [
   {
     cover: resume_analyser,
     title: "Resume Analyser for Interview ",
-    text: <Resume_Analyser/>,
+    text: <Resume_Analyser />,
     labels: ["React js", "Mongo DB", "TypeScript", "Node Js"],
     name: "Jayaraj K",
     date: "24/04/2022",

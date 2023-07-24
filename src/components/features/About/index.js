@@ -10,7 +10,7 @@ import jayaraj from "../../assests/Users/Jayaraj.jpeg";
 import saran from "../../assests/Users/saran.jpeg";
 import logu from "../../assests/Users/logu.jpeg";
 import arivu from "../../assests/Users/arivu.jpeg";
-import kumar from "../../assests/Users/kumar.jpg";
+import kumar from "../../assests/Users/Nk.jpg";
 
 function About() {
   const [team, _] = useState([
@@ -184,7 +184,7 @@ function About() {
               <img
                 src={member.img}
                 alt={member.name}
-                style={{ width: 100 ,cursor:"pointer"}}
+                style={{ width: 100, cursor: "pointer" }}
                 className="rounded-circle shadow-4"
               />
               <div className="d-flex flex-column justify-content-center align-items-center">
